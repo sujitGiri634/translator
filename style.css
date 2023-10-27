@@ -14,7 +14,7 @@ body {
     min-height: 100vh;
     align-items: center;
     justify-content: center;
-    background: #85A6D4;
+    background: #363062;
 }
 
 .hero {
@@ -22,7 +22,7 @@ body {
     width: 100%;
     padding: 30px;
     text-align: center;
-    background: #fff;
+    background: #DAFFFB;
 }
 
 .hero p {
@@ -57,12 +57,12 @@ i {
     color: #333;
     padding: 5px 10px;
     font-size: 18px;
-    border: 2px solid #080808;
+    border: 2px solid #0000000;
     background: none;
 }
 
 .button .change {
-    color: #002fa7;
+    color: #64CCC5;
     font-size: 20px;
     cursor: pointer;
     transition: transform 0.2s ease;
